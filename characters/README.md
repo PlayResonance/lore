@@ -8,6 +8,15 @@ As players venture deeper into Veilbrook's maze-like alleys and towering skyscra
 Resonance's Veilbrook serves as a microcosm of the multifaceted themes that define the game – the battle between oppression and liberation, the delicate balance between tradition and innovation, and the unrelenting pursuit of a better tomorrow. The city's contrasting layers mirror the moral dilemmas that players themselves will confront, as they navigate the labyrinthine paths of a world veiled in both beauty and darkness.<br><br>
 ______________
 ## Characters
+- [Bunny](https://github.com/PlayResonance/lore/blob/main/characters/README.md#bunny)<br>
+- [Bolton](https://github.com/PlayResonance/lore/blob/main/characters/README.md#bolton)<br>
+- [Gomez](https://github.com/PlayResonance/lore/blob/main/characters/README.md#gomez)<br>
+- [Bus](https://github.com/PlayResonance/lore/blob/main/characters/README.md#bus)<br>
+- [Steve](https://github.com/PlayResonance/lore/blob/main/characters/README.md#steve)<br>
+- [Trent](https://github.com/PlayResonance/lore/blob/main/characters/README.md#trent)<br>
+- <i> In Progress...</i>
+
+
 ______________
 ### Bunny
 Bunny's origin story is as enigmatic as it is heartwarming. Created by Bolton, a brilliant robotic engineer, she was designed to embody the essence of empathy and companionship. In a world where robots were often seen as utilitarian tools, Bunny stood out as a testament to Bolton's vision of a future where artificial beings could provide genuine emotional connection.<br><br>
