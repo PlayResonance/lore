@@ -19,7 +19,9 @@ Media, once a source of information and expression, became a tool of manipulatio
 The undercurrent of resistance, however, could not be silenced. The Renaissance, a shadowy movement fueled by the fading memories of a time before Xerion Corp's grip, emerged from the shadows. Inspired by the city's forgotten history and driven by a yearning for autonomy, its members began to orchestrate acts of defiance.
 
 The battle between Xerion Corp's oppressive regime and the spirit of the Renaissance raged on, with Veilbrook as the battleground. The city's sprawling cybernetic structures stood juxtaposed against the resilience of its people, as a clash of ideologies threatened to tear the city apart. The very cola that once symbolized unity now embodied division.
-Epilogue: A City Divided
+
+## Epilogue: A City Divided
+
 The story of Xerion Cola, from its humble beginnings to its role as a catalyst for societal upheaval, painted a vivid picture of Veilbrook's journey. As the last drops of the cola were consumed, the city found itself at a crossroads. The towering skyscrapers, monuments to Xerion Corp's dominance, cast long shadows over the lives of its inhabitants.
 
 The battle for Veilbrook's soul had just begun. The echoes of a time when Xerion Cola was just a drink, and Veilbrook was more than a kingdom of steel and circuitry, lingered in the air. The future remained uncertain, with the collective fate of the city hinging on the choices of those willing to challenge the status quo.
