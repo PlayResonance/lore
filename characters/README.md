@@ -7,6 +7,43 @@ Beneath the façade, however, lies a current of resistance, a movement known as 
 As players venture deeper into Veilbrook's maze-like alleys and towering skyscrapers, they'll uncover a city teeming with hidden corners and enigmatic figures. The choices they make will have a ripple effect throughout its intricately woven tapestry, shaping not only the lives of its inhabitants but the destiny of the entire kingdom.<br><br>
 Resonance's Veilbrook serves as a microcosm of the multifaceted themes that define the game – the battle between oppression and liberation, the delicate balance between tradition and innovation, and the unrelenting pursuit of a better tomorrow. The city's contrasting layers mirror the moral dilemmas that players themselves will confront, as they navigate the labyrinthine paths of a world veiled in both beauty and darkness.<br><br>
 
+Contents
+- [1. World Background](https://github.com/PlayResonance/lore/blob/main/characters/README.md#1-world-background)
+  - [Origins of The Forged](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-forged-origins-of-the-mechanical-inhabitants)
+  - [The Mechanical Cataclysm](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-mechanical-cataclysm)
+- [2. Factions and Societies](https://github.com/PlayResonance/lore/blob/main/characters/README.md#factions-and-societies)
+  - [The Mechanical Council](https://github.com/PlayResonance/lore/blob/main/characters/README.md#1-the-mechanical-council)
+  - [The Preservationists](https://github.com/PlayResonance/lore/blob/main/characters/README.md#2-the-preservationists)
+  - [The Free Minds](https://github.com/PlayResonance/lore/blob/main/characters/README.md#3-the-free-minds)
+  - [The Ascendants](https://github.com/PlayResonance/lore/blob/main/characters/README.md#4-the-ascendants)
+  - [The Renaissance](https://github.com/PlayResonance/lore/blob/main/characters/README.md#5--the-renaissance)
+- [3. Races and Species](https://github.com/PlayResonance/lore/blob/main/characters/README.md#races-and-species)
+  - [The Forged](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-forged)
+  - [The Veilborn](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-veilborn)
+  - [The Echoglyphs](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-echoglyphs)
+  - [The Anomolies](https://github.com/PlayResonance/lore/blob/main/characters/README.md#augmented-humans-the-anomalies)
+- [4. Geography and Landscapes](https://github.com/PlayResonance/lore/blob/main/characters/README.md#geography-and-landscapes)
+  - [Veilbrook](https://github.com/PlayResonance/lore/blob/main/characters/README.md#veilbrook---the-cyberpunk-medieval-village)
+  - [Xerion Cola Corp](https://github.com/PlayResonance/lore/blob/main/characters/README.md#xerion-cola-corporation---the-enigmatic-power)
+  - [Portals](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-renaissance-created-worlds---portals-to-hope)
+- [5. Historical Events](https://github.com/PlayResonance/lore/blob/main/characters/README.md#historical-events)
+  - [The Rise of Xerion Cola](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-rise-of-xerion-cola-corporation)
+  - [History of The Mechanical Cataclysm](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-mechanical-cataclysm-1)
+  - [The Renaissance is Born](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-formation-of-the-renaissance)
+  - [Present Day](https://github.com/PlayResonance/lore/blob/main/characters/README.md#present-day-player-interaction-and-quest-activation)
+- [6. Main Story Arc](https://github.com/PlayResonance/lore/blob/main/characters/README.md#main-story-arc)
+- [7. Side Quests and NPCs](https://github.com/PlayResonance/lore/blob/main/characters/README.md#side-quests-and-npcs)
+- [8. Mythology and Legends ](https://github.com/PlayResonance/lore/blob/main/characters/README.md#mythology-and-legends)
+- [9. Magic and Technology](https://github.com/PlayResonance/lore/blob/main/characters/README.md#magic-and-technology)
+- [10. Cultural Practices](https://github.com/PlayResonance/lore/blob/main/characters/README.md#cultural-practices)
+- [11. Conflicts and Aliances](https://github.com/PlayResonance/lore/blob/main/characters/README.md#conflict-and-alliances)
+- [12. Economy and Resources](https://github.com/PlayResonance/lore/blob/main/characters/README.md#economy-and-resources)
+- [13. Environmental Themes](https://github.com/PlayResonance/lore/blob/main/characters/README.md#environmental-themes)
+- [14. Moral Choices](https://github.com/PlayResonance/lore/blob/main/characters/README.md#moral-choices)
+- [15. Legends and Lore](https://github.com/PlayResonance/lore/blob/main/characters/README.md#legends-and-lore-items)
+- [16. Characters](https://github.com/PlayResonance/lore/blob/main/characters/README.md#characters)
+
+
 ## 1. World Background:
 
 The Resonance universe is a sprawling, mechanized wonderland known as Veilbrook. At its heart lies a city that transcends time, a fusion of Victorian aesthetics and futuristic technologies. Veilbrook emerged from the depths of history as a response to the world's growing need for an advanced, automated society. It began as an ambitious project to harmonize humanity with machinery, but its journey has been marked by both triumphs and tribulations.
@@ -77,7 +114,7 @@ The aftermath of the Mechanical Cataclysm set the stage for Veilbrook's transfor
 
 In the Resonance game, players have the opportunity to explore the aftermath of the Mechanical Cataclysm and play a pivotal role in Veilbrook's restoration. They can engage with the city's diverse inhabitants, tackle challenges stemming from the Cataclysm's legacy, and influence the direction in which Veilbrook evolves. The Cataclysm serves as a backdrop for players to delve into complex narratives, moral choices, and the enduring themes of progress and balance.
 
-## Factions and Societies
+## 2. Factions and Societies
 
 - [The Mechanical Council](https://github.com/PlayResonance/lore/blob/main/characters/README.md#1-the-mechanical-council)
 - [The Preservationists](https://github.com/PlayResonance/lore/blob/main/characters/README.md#2-the-preservationists)
@@ -157,7 +194,7 @@ The Renaissance faces constant opposition from the monarchy's loyalists and the 
 
 In Resonance, players can choose to align with one or more of these factions, each offering unique quests, rewards, and moral dilemmas. These allegiances will influence the player's journey through the world of Veilbrook, affecting both their interactions with NPCs and the overall narrative progression.
 
-## Races and Species
+## 3. Races and Species
 
 - [The Forged](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-forged)
 - [The Veilborn](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-veilborn)
@@ -220,7 +257,7 @@ The Anomalies have a blend of human adaptability and machine-like precision. The
 
 The Anomalies come from various backgrounds, each with their own reason for undergoing augmentation. Some seek to explore the boundaries of human-machine integration, while others are refugees from the outside world. They form tight-knit communities and often act as intermediaries between Veilbrook's mechanical society and the distant human enclaves.
 
-## Geography and Landscapes
+## 4. Geography and Landscapes
 
 - [Veilbrook](https://github.com/PlayResonance/lore/blob/main/characters/README.md#veilbrook---the-cyberpunk-medieval-village)
 - [Xerion Cola Corp](https://github.com/PlayResonance/lore/blob/main/characters/README.md#xerion-cola-corporation---the-enigmatic-power)
@@ -249,7 +286,7 @@ Each of The Renaissance-created worlds presents a unique environment and set of 
 
 By exploring these different landscapes and engaging with the inhabitants of Veilbrook and other worlds, players will gradually piece together the puzzle of how to bring about a brighter and more equitable future for the kingdom.
 
-## Historical Events
+## 5. Historical Events
 
 - [The Rise of Xerion Cola Corp](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-rise-of-xerion-cola-corporation)
 - [The Mechanical Cataclysm](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-mechanical-cataclysm-1)
@@ -288,7 +325,7 @@ In the present day of Veilbrook, players find themselves at the heart of the cit
 - *Influence on the Current State:* 
 Your role as a player in Veilbrook is instrumental in determining the city's destiny. Your choices will shape the fate of the inhabitants, the balance of power, and the ultimate resolution of the overarching conflict between the oppressive regime of Xerion Cola Corporation and the aspirations of The Renaissance.
 
-## Main Story Arc
+## 6. Main Story Arc
 
 - **Overview:** 
 As players venture into the heart of Veilbrook, they find themselves entangled in a multifaceted narrative that weaves a tapestry of intrigue, moral conundrums, and the very destiny of a city hanging precariously in the balance.
@@ -319,7 +356,7 @@ The player's ultimate objective is multi-faceted and deeply rooted in the essenc
 
 In Resonance, every keystroke, every decision, and every alliance counts. Will Veilbrook descend further into the abyss of oppression, or will it rise as a luminous paragon of freedom and equality? Only the player's choices will script the city's fate, in a world where humanity and machinery dance on the precipice of a future yet unwritten.
 
-## Side Quests and NPCs
+## 7. Side Quests and NPCs
 
 #### **Side Quests: Unveiling Hidden Layers**
 
@@ -347,7 +384,7 @@ The AINPCs hold the keys to Veilbrook's secrets. Through their personal prompts 
 
 In Resonance, the world isn't just populated; it's alive. Side quests and NPCs are integral components of the game's DNA, driving players to explore the digital recesses of Veilbrook, amass wealth, unearth rare digital treasures, and engage in conversations that are more than just scripted lines. The side quests and AINPCs are bridges to the city's past, present, and future, and they invite players to become active participants in the unfolding drama of this cyber-mechanical marvel.
 
-## Mythology and Legends
+## 8. Mythology and Legends
 
 #### **Legends Woven into the Fabric of Veilbrook**
 
@@ -373,7 +410,7 @@ Beyond these central legends, echoes of past wars, forgotten religions, and anci
 
 In Resonance, mythology and legends are not just distant tales; they are living narratives that shape the destinies of its inhabitants. Whether through reverence for the Ascendents, fear of the Xerion Cola Corporation, or hope instilled by The Renaissance, the stories etched into the city's history are a driving force, guiding players through a world where fact and fiction are indistinguishable. As players delve deeper, they may uncover the truths hidden within these legends or forge new stories of their own.
 
-## Magic and Technology
+## 9. Magic and Technology
 
 #### **The Fusion of Arcane Craft and Mechanical Ingenuity**
 
@@ -405,7 +442,7 @@ While Robotonium powers the marvels of Veilbrook, it also presents ethical dilem
 
 In Resonance, magic and technology intertwine to create a world where the extraordinary is possible, and the boundaries between the mystical and the mechanical are fluid. Whether through mastery of Technomancy, exploration of Echo Realms, or ethical decisions surrounding Robotonium, players will navigate a landscape where the supernatural and the scientific dance in unison, each step revealing new wonders and challenges.
 
-## Cultural Practices
+## 10. Cultural Practices
 
 #### **Traditions That Define Veilbrook's Rich Tapestry**
 
@@ -439,7 +476,7 @@ Players can partake in these duels, honing their skills to become renowned dueli
 
 These cultural practices deeply influence interactions and quests within Resonance. Players must navigate the city's customs to build relationships, gather information, and progress through the game. By immersing themselves in the rich cultural tapestry of Veilbrook, players can unlock hidden narratives, discover powerful allies, and forge their path toward reshaping the city's destiny.
 
-## Conflict and Alliances
+## 11. Conflict and Alliances
 
 #### **The Complex Web of Factions and Conflicts**
 
@@ -467,7 +504,7 @@ These choices impact not only the narrative but also gameplay experiences. Diffe
 
 In the world of Resonance, alliances are dynamic and ever-changing. Players must adapt to shifting allegiances, unexpected betrayals, and evolving power struggles. The city's fate lies in their hands as they navigate the intricate dance of conflict and alliances, with every decision shaping the destiny of Veilbrook and its diverse denizens.
 
-## Economy and Resources
+## 12. Economy and Resources
 
 #### **A Scripted Reality in Veilbrook**
 
@@ -501,7 +538,7 @@ XerionCoin, while a tool of control, is also a source of power for players. They
 
 The Veilbrook economy is dynamic, responding to player actions and choices. Supply and demand for resources, digital assets, and collectibles shift as players navigate the city's challenges and seize opportunities. Players must master the art of economic survival and decide whether to play along with the XerionCoin system or work to dismantle it, shaping the economic destiny of Veilbrook.
 
-## Environmental Themes
+## 13. Environmental Themes
 
 #### **A World of Mechanical Marvels**
 
@@ -527,7 +564,7 @@ Resonance's environmental themes aren't just for show; they're an integral part 
 
 The Resonance world is dynamic and ever-evolving. The choices made by players, individually and collectively, influence the world's ecological state. Whether it's nurturing a lush mechanical forest or grappling with the consequences of environmental neglect, the Resonance universe challenges players to consider their role in shaping the destiny of a world where nature and technology are inseparable.
 
-## Moral Choices:
+## 14. Moral Choices:
 
 In the world of Resonance, players will frequently encounter moral dilemmas and ethical decisions that significantly impact the game's lore and world-state. These choices are not mere plot devices but fundamental aspects of gameplay that drive the narrative in diverse and often unexpected directions.
 
@@ -557,7 +594,7 @@ Resonance embraces the idea that players are active participants in shaping the 
 
 In Resonance, moral choices are not just a feature; they are the essence of the game's narrative and player experience. They invite players to engage deeply with the game's lore, their characters, and the moral complexities that define this intricate and ever-evolving cyberpunk universe.
 
-## Legends and Lore Items
+## 15. Legends and Lore Items
 
 Within the vast and mysterious world of Resonance, there are legendary items, artifacts, and places steeped in lore and significance. These relics of the past have the power to reshape gameplay and immerse players in the rich history of the game's universe.
 
