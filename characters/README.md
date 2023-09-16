@@ -222,9 +222,9 @@ The Anomalies come from various backgrounds, each with their own reason for unde
 
 ## Geography and Landscapes
 
-- [Veilbrook]()
-- [Xerion Cola Corp]()
-- [Portals]()
+- [Veilbrook](https://github.com/PlayResonance/lore/blob/main/characters/README.md#veilbrook---the-cyberpunk-medieval-village)
+- [Xerion Cola Corp](https://github.com/PlayResonance/lore/blob/main/characters/README.md#xerion-cola-corporation---the-enigmatic-power)
+- [Portals](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-renaissance-created-worlds---portals-to-hope)
 
 #### **Veilbrook - The Cyberpunk Medieval Village**
 - *Overview:* 
@@ -234,7 +234,7 @@ Veilbrook, the central setting of the game, is a peculiar blend of medieval arch
 Players begin their journey in Veilbrook, where they are introduced to the dystopian conditions that plague the village. The confluence of medieval aesthetics and futuristic technology presents unique challenges and opportunities. Navigating the intricate streets requires agility and problem-solving skills, while deciphering ancient manuscripts unlocks the secrets of advanced machinery.
 
 #### **Xerion Cola Corporation - The Enigmatic Power**
-*Overview:* 
+- *Overview:* 
 Xerion Cola Corporation dominates the landscape both within and beyond Veilbrook. The imposing corporate headquarters looms over the village, casting a shadow of oppression. The corporation's sprawling industrial facilities, hidden beneath the town, are responsible for the residents' forced labor and use of the XerionCoin script instead of traditional currency.
 
 - *Impact on Gameplay:* 
