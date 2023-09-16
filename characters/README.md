@@ -79,10 +79,10 @@ In the Resonance game, players have the opportunity to explore the aftermath of 
 
 ### Factions and Societies
 
-- [The Mechanical Council]()
-- [The Preservationists]()
-- [The Free Minds]()
-- [The Ascendants]()
+- [The Mechanical Council](https://github.com/PlayResonance/lore/blob/main/characters/README.md#1-the-mechanical-council)
+- [The Preservationists](https://github.com/PlayResonance/lore/blob/main/characters/README.md#2-the-preservationists)
+- [The Free Minds](https://github.com/PlayResonance/lore/blob/main/characters/README.md#3-the-free-minds)
+- [The Ascendants](https://github.com/PlayResonance/lore/blob/main/characters/README.md#4-the-ascendants)
 
 
 #### 1. **The Mechanical Council**
