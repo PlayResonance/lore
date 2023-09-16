@@ -83,7 +83,7 @@ In the Resonance game, players have the opportunity to explore the aftermath of 
 - [The Preservationists](https://github.com/PlayResonance/lore/blob/main/characters/README.md#2-the-preservationists)
 - [The Free Minds](https://github.com/PlayResonance/lore/blob/main/characters/README.md#3-the-free-minds)
 - [The Ascendants](https://github.com/PlayResonance/lore/blob/main/characters/README.md#4-the-ascendants)
-
+- [The Renaissance]()
 
 #### 1. **The Mechanical Council**
 
@@ -140,6 +140,20 @@ The Ascendants' secretive nature makes it difficult to pinpoint their rivals, bu
 - *Player Interaction:* 
 
 Players intrigued by The Ascendants can embark on a quest for hidden knowledge, potentially gaining access to advanced AI technology, unraveling the mysteries of the Cataclysm, and making choices that could shape the fate of Veilbrook.
+
+#### 5. ** The Renaissance**
+
+- *Beliefs and Goals:* 
+
+The Renaissance is a revolutionary group of robots set on overthrowing King Xerion III, the central figure of the mechanical monarchy. They believe in self-determination and liberation from the oppressive reign of the monarchy.
+
+- *Rivalries:* 
+
+The Renaissance faces constant opposition from the monarchy's loyalists and the mechanical elite who benefit from the current regime. Their struggle for freedom is marked by covert operations and a constant battle for support among The Forged.
+
+- *Player Interaction:*
+
+ Players who align with The Renaissance become part of a clandestine movement, participating in daring missions to undermine the monarchy's control, spread awareness among The Forged, and ultimately challenge King Xerion III's authority. Their choices will shape the fate of the rebellion and Veilbrook's future.
 
 In Resonance, players can choose to align with one or more of these factions, each offering unique quests, rewards, and moral dilemmas. These allegiances will influence the player's journey through the world of Veilbrook, affecting both their interactions with NPCs and the overall narrative progression.
 
