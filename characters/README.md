@@ -159,6 +159,11 @@ In Resonance, players can choose to align with one or more of these factions, ea
 
 ## Races and Species
 
+- [The Forged](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-forged)
+- [The Veilborn](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-veilborn)
+- [The Echoglyphs](https://github.com/PlayResonance/lore/blob/main/characters/README.md#the-echoglyphs)
+- [The Anomalies](https://github.com/PlayResonance/lore/blob/main/characters/README.md#augmented-humans-the-anomalies)
+
 #### **The Forged**
 
 - *Description:* 
@@ -214,6 +219,35 @@ The Anomalies have a blend of human adaptability and machine-like precision. The
 - *Culture:* 
 
 The Anomalies come from various backgrounds, each with their own reason for undergoing augmentation. Some seek to explore the boundaries of human-machine integration, while others are refugees from the outside world. They form tight-knit communities and often act as intermediaries between Veilbrook's mechanical society and the distant human enclaves.
+
+## Geography and Landscapes
+
+- [Veilbrook]()
+- [Xerion Cola Corp]()
+- [Portals]()
+
+#### **Veilbrook - The Cyberpunk Medieval Village**
+- *Overview:* 
+Veilbrook, the central setting of the game, is a peculiar blend of medieval architecture and cyberpunk technology. The village is surrounded by towering walls, isolating its residents from the outside world. Inside, narrow cobblestone streets wind through the labyrinthine town, while clockwork mechanisms hum alongside gas lamps. Ancient stone structures house advanced machinery, creating an eerie juxtaposition of old and new.
+
+- *Impact on Gameplay:* 
+Players begin their journey in Veilbrook, where they are introduced to the dystopian conditions that plague the village. The confluence of medieval aesthetics and futuristic technology presents unique challenges and opportunities. Navigating the intricate streets requires agility and problem-solving skills, while deciphering ancient manuscripts unlocks the secrets of advanced machinery.
+
+#### **Xerion Cola Corporation - The Enigmatic Power**
+*Overview:* 
+Xerion Cola Corporation dominates the landscape both within and beyond Veilbrook. The imposing corporate headquarters looms over the village, casting a shadow of oppression. The corporation's sprawling industrial facilities, hidden beneath the town, are responsible for the residents' forced labor and use of the XerionCoin script instead of traditional currency.
+
+- *Impact on Gameplay:* 
+Xerion Cola Corporation serves as the primary antagonist and driving force behind the game's narrative. Players must navigate through the corporation's labyrinthine facilities, hacking into its systems, and gathering evidence to expose its exploitation of the villagers. The sprawling, ominous landscapes created by the corporation become both the battleground and the source of valuable information.
+
+#### **The Renaissance-Created Worlds - Portals to Hope**
+- *Overview:* 
+While the majority of the game unfolds within Veilbrook, players will have the opportunity to visit other worlds created by the members of The Renaissance, a revolutionary group of robots seeking to overthrow King Xerion III. These worlds are accessible through mystical portals hidden throughout Veilbrook and beyond.
+
+- *Impact on Gameplay:* 
+Each of The Renaissance-created worlds presents a unique environment and set of challenges. Players will encounter vital characters, gather components for their quest, and uncover clues to unravel the mysteries of Veilbrook's oppressive regime. These diverse landscapes provide a refreshing change of scenery and introduce gameplay mechanics specific to each world.
+
+By exploring these different landscapes and engaging with the inhabitants of Veilbrook and other worlds, players will gradually piece together the puzzle of how to bring about a brighter and more equitable future for the kingdom.
 
 ______________
 ## Characters
