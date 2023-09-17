@@ -1,4 +1,7 @@
-# The Kingdom of Veilbrook
+# Resonance Canon
+
+## The Kingdom of Veilbrook
+
 In the heart of Resonance's cyberpunk-infused tapestry lies the enigmatic Kingdom of Veilbrook, a realm where the echoes of medieval grandeur reverberate through the corridors of a hyper-capitalist dystopia. This captivating setting serves as the backdrop for the myriad stories, secrets, and struggles that unfold within the game's narrative.
 Veilbrook, a city nestled at the crossroads of past and future, is a study in contrasts. Its cobblestone streets and towering spires evoke a sense of bygone nobility, but the shadows cast by neon-lit advertisements tell a different tale – one of a society trapped in a web of corporate control. Beneath the veil of a medieval aesthetic, the city throbs with the pulse of a high-tech world.<br><br>
 At first glance, Veilbrook appears to be a haven of prosperity, where the glittering facades of opulent structures hide the underlying reality of an oppressive regime. Xerion Cola Corp, under the iron-fisted rule of Xerion III, maintains a stranglehold on every facet of life – from information dissemination to access to basic resources. The very lifeblood of the city is, ironically, a substance known as Xerion Cola, a ubiquitous drink that conceals secrets as dark as its carbonated depths.<br><br>
